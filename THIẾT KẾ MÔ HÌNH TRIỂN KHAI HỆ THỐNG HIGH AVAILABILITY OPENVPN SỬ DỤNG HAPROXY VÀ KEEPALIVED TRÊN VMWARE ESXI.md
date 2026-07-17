@@ -282,21 +282,21 @@ Hệ thống vẫn duy trì dịch vụ với thời gian gián đoạn tối th
 
 Việc triển khai được thực hiện theo trình tự sau:
 
-Cấu hình VMware ESXi.
-Tạo vSwitch và Port Group.
-Cấu hình VLAN trên Cisco L3 Switch.
-Triển khai Ubuntu Server.
-Cài đặt OpenVPN.
-Cài đặt Easy-RSA và xây dựng hệ thống CA.
-Tạo chứng chỉ Server và Client.
-Cài đặt HAProxy.
-Cấu hình HAProxy Backend.
-Cài đặt Keepalived.
-Cấu hình VRRP và Virtual IP.
-Cấu hình NAT trên FortiGate.
-Cấu hình Routing trên pfSense.
-Kiểm thử các kịch bản Failover.
-Giám sát hệ thống và tối ưu hiệu năng.
+- Cấu hình VMware ESXi.
+- Tạo vSwitch và Port Group.
+- Cấu hình VLAN trên Cisco L3 Switch.
+- Triển khai Ubuntu Server.
+- Cài đặt OpenVPN.
+- Cài đặt Easy-RSA và xây dựng hệ thống CA.
+- Tạo chứng chỉ Server và Client.
+- Cài đặt HAProxy.
+- Cấu hình HAProxy Backend.
+- Cài đặt Keepalived.
+- Cấu hình VRRP và Virtual IP.
+- Cấu hình NAT trên FortiGate.
+- Cấu hình Routing trên pfSense.
+- Kiểm thử các kịch bản Failover.
+- Giám sát hệ thống và tối ưu hiệu năng.
 
 ## 11. Kết luận
 
